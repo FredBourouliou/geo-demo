@@ -4,7 +4,6 @@
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-336791.svg)](https://www.postgresql.org/)
 [![PostGIS](https://img.shields.io/badge/PostGIS-3.4-green.svg)](https://postgis.net/)
 [![Docker](https://img.shields.io/badge/Docker-Ready-2496ED.svg)](https://www.docker.com/)
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 > **Pipeline ETL automatisé pour l'intégration et l'analyse de données cadastrales françaises dans PostgreSQL/PostGIS**
 
@@ -154,10 +153,6 @@ Les contributions sont les bienvenues ! N'hésitez pas à :
 - 🐛 Signaler des bugs via les [Issues](https://github.com/FredBourouliou/geo-demo/issues)
 - 💡 Proposer des améliorations
 - 🔧 Soumettre des Pull Requests
-
-## 📄 Licence
-
-Ce projet est sous licence MIT - voir le fichier [LICENSE](LICENSE) pour plus de détails.
 
 ## 👤 Auteur
 
